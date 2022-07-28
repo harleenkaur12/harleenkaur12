@@ -1,5 +1,5 @@
 ## About Me
-🚀Hii there! I am Harleen Kaur Chadha, a junior year computer science student trying my hands at programming. My first languange is C++. Currently I am also working on web development using HTML, CSS.I am also trying my hands at data structures and algorithms.
+🚀Hii there! I am Harleen Kaur Chadha, a junior year computer science student trying my hands at programming. My first languange is C++. Currently I am also working on web development using HTML, CSS. I am also trying my hands at data structures and algorithms.
 
 🚀Through Github, I wish to be a part of this great community of programmers and computer enthusiasts and hope to give as many contributions as possible.
 
