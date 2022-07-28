@@ -1,16 +1,20 @@
-### Hi there 👋
+## About Me
+🚀Hii there! I am Harleen Kaur Chadha, a junior year computer science student trying my hands at programming. My first languange is C++. Currently I am also working on web development using HTML, CSS
 
-<!--
-**harleenkaur12/harleenkaur12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀Through Github, I wish to be a part of this great community of programmers and computer enthusiasts and hope to give as many contributions as possible.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+C++, HTML, CSS...
+
+
+## Contributions
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harleenkaur12)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harleenkaur12)](https://github.com/anuraghazra/github-readme-stats)
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=harleenkaur12)](https://github.com/harleenkaur12)
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harleen-kaur-chadha-aa0360238/)
+
