@@ -12,8 +12,8 @@ C++, HTML, CSS...
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harleenkaur12)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harleenkaur12)](https://github.com/anuraghazra/github-readme-stats)
-## Trophies
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harleenkaur12)](https://git.io/streak-stats)🔗 Links
+
+🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harleen-kaur-chadha-aa0360238/)
 
